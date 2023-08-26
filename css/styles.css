@@ -327,8 +327,8 @@ katya1
     max-width: 224px;
     height: 50px;
     margin: 0 auto;
-    background: var(--blue-font);
-    color: var(--white);
+    /*background: var(--blue-font);*/
+    color: #0A224A;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -362,9 +362,11 @@ katya1
 
 .subscription-send-button:hover,
 .subscription-send-button:focus {
-    background-color: var(--button-accent-color);
+    /*background-color: var(--button-accent-color);*/
     /*outline: transparent;*/
     border: none;
+    color: #061835;
+
 
 }
 
