@@ -1,4 +1,4 @@
-:root {
+/*:root {
     --primary-color: #434455;
     --secondary-color: #2e2f42;
     --white-color: #ffffff;
@@ -61,6 +61,10 @@ img {
     margin: 0 auto;
 }
 
+
+
+
+
 /*price*/ 
 .plan-container {
     display: flex;
@@ -111,7 +115,7 @@ img {
 
 
 
-@media screen and (min-width: 768px) {
+/*@media screen and (min-width: 768px) {
     .plan-text {
         font-size: 32px;
         line-height: 1.4;
@@ -133,7 +137,7 @@ img {
 @media screen and (min-width: 1440px) {
     .plan-item {
         min-width: 1096px;
-    }
+    }*/
 
 
 
@@ -162,7 +166,7 @@ img {
 
     }
 
-}
+
 
 /*subscription*/
 
@@ -351,7 +355,7 @@ img {
 
 
 
-@media screen and (min-width: 768px) {
+/*@media screen and (min-width: 768px) {
     .subscription-main-container {
         max-width: 536px;
     }
@@ -435,7 +439,7 @@ img {
     .subscription-form {
         margin-bottom: 0;
     }
-}
+}*/
 
 .visually-hidden {
     position: absolute;
