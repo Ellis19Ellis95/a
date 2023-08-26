@@ -328,7 +328,7 @@ katya1
     height: 50px;
     margin: 0 auto;
     /*background: var(--blue-font);*/
-    /*background-color:#0A224A;*/
+    background-color:#0A224A;
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -336,8 +336,8 @@ katya1
     line-height: 1.5;
     cursor: pointer;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    background-color: #4d5ae5;
-    color: #ffffff;
+    
+    /*color: #ffffff;*/
 }
 
 
